@@ -1,6 +1,6 @@
 # SmartRoute — Smart Delivery Route Planner
 
-A resume-ready full-stack delivery route planner built with **C++20 + Crow** on the backend and **React + Vite** on the frontend.
+A full-stack delivery route planner built with **C++20 + Crow** on the backend and **React + Vite** on the frontend.
 
 ## What it solves
 
