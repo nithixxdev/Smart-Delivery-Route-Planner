@@ -1,0 +1,56 @@
+{
+  "vehicleCapacity": 30,
+  "startHour": 9,
+  "depot": {
+    "id": "DEPOT",
+    "name": "Central Depot",
+    "x": 50,
+    "y": 50
+  },
+  "stops": [
+    {
+      "id": "A",
+      "name": "Anna Nagar",
+      "x": 22,
+      "y": 27,
+      "demand": 5,
+      "priority": 3,
+      "readyHour": 9,
+      "dueHour": 12,
+      "serviceMinutes": 8
+    },
+    {
+      "id": "B",
+      "name": "T. Nagar",
+      "x": 71,
+      "y": 25,
+      "demand": 4,
+      "priority": 2,
+      "readyHour": 9,
+      "dueHour": 15,
+      "serviceMinutes": 6
+    },
+    {
+      "id": "C",
+      "name": "Adyar",
+      "x": 78,
+      "y": 68,
+      "demand": 7,
+      "priority": 5,
+      "readyHour": 10,
+      "dueHour": 13,
+      "serviceMinutes": 10
+    },
+    {
+      "id": "D",
+      "name": "Velachery",
+      "x": 54,
+      "y": 80,
+      "demand": 3,
+      "priority": 1,
+      "readyHour": 11,
+      "dueHour": 17,
+      "serviceMinutes": 7
+    }
+  ]
+}
